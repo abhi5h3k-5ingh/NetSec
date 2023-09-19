@@ -3,4 +3,5 @@ NetSec is a powerful application designed to detect and mitigate network attacks
 
 # PCAP Receiver
 For capturing the network packets we are using pcapdroid app's API. I have built an app that calls API to capture the network packet by simulating a VPN environment locally.
+
 ![packet_capture (1)](https://github.com/abhi5h3k-5ingh/NetSec/assets/99336612/49ec449e-2e40-4693-becb-bd332f55f64f)
